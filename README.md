@@ -9,7 +9,10 @@ Record videos, screenshares, voice recordings, screenshots and other tools for f
 - Record smooth, high-definition videos at 60fps with synchronized audio up to 4K resolution, perfect for professional use.
 - built-in thread commenting on shareable links, making it easy to collaborate with teammates and collect feedback on your recordings without switching platforms.
 - Connect your own custom domain for a branded experience while maintaining 100% ownership of your data.
--
+- Studio Mode with full editor
+- Commercial usage
+- Unlimited local recordings
+- Export to MP4 or GIF
 
 ### Instant Mode:
 - Share your screen right away with a simple link—no waiting, just record and share in seconds. Record up to 5-minute shareable links for free, perfect for quick demos and explanations. Includes built-in thread commenting for easy collaboration.
