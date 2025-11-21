@@ -85,3 +85,8 @@ Yes, we offer commercial licenses for businesses that want to use the SERP Cam d
 
 What happens after the beta period ends?
 Early adopters will keep their special pricing for the lifetime of their subscription, even after we move out of beta and adjust our regular pricing. This is our way of thanking our early supporters.
+
+
+## Related
+
+- [SERP Cam: The Best Screen Recording, Video Filming, Screenshot Taking & Annotation, Tool You've Ever Used](https://gist.github.com/devinschumacher/bf013b09f761835dda09cd42ad41d9a1)
